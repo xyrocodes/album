@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AddAlbum from './AddAlbum';
 import AlbumsList from './AlbumsList';
 // import Navbar from './Navbar'
