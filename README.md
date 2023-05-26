@@ -1,4 +1,4 @@
-## >> [albumCollection](https://xyrocodes.github.io/albumCollection)
+## >> [album](https://xyrocodes.github.io/album)
 
 # Getting Started with Create React App
 
