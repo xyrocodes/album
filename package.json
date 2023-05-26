@@ -1,7 +1,7 @@
 {
   "name": "album",
   "homepage": ".",
-  "homepage": "https://xyrocodes.github.io/albumCollection",
+  "homepage": "https://xyrocodes.github.io/album",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
