@@ -1,5 +1,6 @@
 {
   "name": "album",
+  "start_url": ".",
   "homepage": "https://xyrocodes.github.io/album",
   "version": "0.1.0",
   "private": false,
