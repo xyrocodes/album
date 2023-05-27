@@ -29,7 +29,7 @@ button{
 .navbar{
   width: 100%;
   padding: 20px 10px;
-  background-color: #034d61;
+  background-color: #042030;
   display: flex;
   justify-content: space-between;
   position: fixed;
@@ -73,7 +73,7 @@ button{
 .list{
   width: 310px;
   height: 200px;
-  background-color: #026889;
+  background-color: #03293e;
   margin-bottom:5px ;
   color: white;
   padding: 10px;
@@ -91,14 +91,14 @@ button{
   justify-content: space-between;
 }
 .update-btn{
-  background-color: rgb(15, 165, 168);
-  color: white;
+  background-color: rgb(255, 255, 255);
+  color: rgb(14, 13, 13);
   border: 0px;
   padding: 10px 20px;
   cursor: pointer;
 }
 .update-btn:hover{
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(122, 243, 118);
   color: black;
 }
 .delete-btn{
